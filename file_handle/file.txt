@@ -1,0 +1,7 @@
+Files in Java might be tricky, but it is fun enough!
+If you want to use this code, you should make sure that you have a file named "filename.txt" in the same directory as the Java source code file or provide the correct path to the file you want to read. 
+Additionally, handle the file exceptions or errors gracefully based on your application's requirements.
+
+
+
+
